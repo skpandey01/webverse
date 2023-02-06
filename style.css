@@ -1,0 +1,56 @@
+#wel {
+    background-color: aquamarine;
+    color: rgb(38, 231, 12);
+}
+#intro
+{
+    background-color: rgb(218, 23, 199);
+}
+
+#web {
+    background-color: bisque;
+    color: red;
+}
+
+#name {
+    background-color: darkorange;
+}
+
+#contact {
+    background-color: rgb(11, 60, 238);
+    color: rgb(255, 255, 255);
+}
+
+#contri {
+    background-color: greenyellow;
+}
+
+#time {
+    background-color: rgb(227, 19, 109);
+}
+
+#attach {
+    background-color: cyan;
+}
+
+.yellow {
+    color: yellow;
+}
+
+.logo {
+    display: block;
+    float: right;
+}
+
+.weblogo {
+    display: grid;
+    float: left;
+}
+
+#manage {
+    background-color:black;
+    color: white;
+}
+#contactus{
+    background-color: rgb(221, 221, 14);
+}
